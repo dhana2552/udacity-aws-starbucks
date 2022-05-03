@@ -71,7 +71,7 @@ The flow of the notebook is as follows:
 * Split the dataset into train and test, then evaluate with Random Forest
 * Export to csv and use in lambda function
 
-# Lamba function
+# Lambda function
 Use lambda_function.py to evaluate the deployed endpoints. 
 
 
